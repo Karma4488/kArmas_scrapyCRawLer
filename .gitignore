@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Scrapy
+.karmas_shadows.db
+results.json
+scrapy_sqlmap_results/
+
+# OS-generated
+.DS_Store
